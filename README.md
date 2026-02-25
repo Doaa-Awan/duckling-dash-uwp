@@ -2,11 +2,7 @@
 
 A Snake arcade remake built for Universal Windows Platform using C#. Control a duck collecting pellets — the trail grows and speed increases with each one collected, making the game progressively harder over time.
 
----
-
-## Screenshots
-
-*[Add screenshots here]*
+![Duckling Dash Demo](https://github.com/user-attachments/assets/f53e4f77-5193-447a-8695-79bd829ba266)
 
 ---
 
